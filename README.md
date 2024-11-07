@@ -20,6 +20,14 @@ The goal of this project is to predict Bitcoin's future prices based on historic
 - **Market Insight**: Reveals trends and patterns in Bitcoin's price behavior over time.
 - **Risk Reduction**: Allows users to assess potential price movements, supporting better decision-making in a volatile market.
 
+## Technologies Used
+- **Python**: The primary programming language used for data processing and model training.
+- **Pandas**: For data manipulation and handling structured datasets efficiently.
+- **NumPy**: For numerical computations, essential for handling large datasets.
+- **Scikit-Learn**: Used for building and evaluating machine learning models, such as Linear Regression and Support Vector Machines (SVM).
+- **TensorFlow/Keras (if using LSTM)**: For deep learning models, particularly LSTM networks tailored for time-series forecasting.
+- **Matplotlib/Seaborn**: Visualization libraries for data exploration and analysis, helping to identify trends and patterns in historical price data.
+
 ## Potential Applications
 This project can be a valuable tool for traders, financial analysts, and cryptocurrency enthusiasts who are looking to gain insights into Bitcoin’s price trends. It may be adapted as a component of a larger trading or investment platform, offering predictive insights and price alerts.
 
